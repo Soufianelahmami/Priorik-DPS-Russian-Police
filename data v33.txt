@@ -41,13 +41,13 @@
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc1":"The Russian Police Force, like law enforcement agencies worldwide, relies on a diverse range of vehicles to carry out its duties effectively ",
+   "photo1":"https://iili.io/JHQZHMP.webp"},
+  {"desc2":"Among the numerous vehicles in its fleet, one stands out for its unique characteristics and suitability for various law enforcement tasks","photo2":"https://iili.io/JHQZ9oB.webp"},
+  {"desc3":"the Priorik DPS. In this article, we will explore the significance of the Priorik DPS in the Russian Police Force, examining its features, functions, and impact on maintaining law and order in the country","photo3":"https://iili.io/JHQQptV.webp"},
+  {"desc4":"Before diving into the specifics of the Priorik DPS, it's essential to understand the context in which it operates","photo4":"https://iili.io/JHQZJP1.webp"},
+  {"desc5":"The Russian Police Force, formally known as the Ministry of Internal Affairs (MVD) of the Russian Federation, plays a crucial role in maintaining law and order in the vast and diverse nation","photo5":"https://iili.io/JHQZ2KF.webp"},
+  {"descd":"With responsibilities ranging from ensuring public safety to combating organized crime, the Russian Police Force is a multifaceted institution","photod":"https://iili.io/JHQZ3cg.webp"}
    ]
  
 }

@@ -1,54 +1,60 @@
-{"ads":{
-  
-
-"unity_inter":"Interstitial_Android",
-"unity_banner":"Banner_Android",
-"unity_reward":"Rewarded_Android",
-"unity_gameid":"5082535",
- 
-
-"facebook_inter":"IMG_16_9_APP_INSTALL#1444095999348608_1507496829675191",
-"facebook_banner":"IMG_16_9_APP_INSTALL#1444095999348608_1508844899540384",
-"facebook_native":"IMG_16_9_APP_INSTALL#1444095999348608_1526320831126124",
-"facebook_reward":"PLAYABLE#1444095999348608_1582552458836294",
-  
-
-"admob_inter":"ca-app-pub-3940256099942544/1033173712",
-"admob_banner":"ca-app-pub-3940256099942544/6300978111",
-"admob_native":"ca-app-pub-3940256099942544/2247696110",
-"admob_reward":"ca-app-pub-3940256099942544/5224354917",
-  
-  
-"yandex_banner":"R-M-DEMO-320x100",
-"yandex_inter":"R-M-DEMO-interstitial",
-"yandex_native":"R-M-DEMO-native-i",
-"yandex_reward":"demo-rewarded-yandex",
-  
-"vungle_appid":"645e64defe20a95ccb12bd7b ",
-"vungle_inter":"INTER-5944534",
-"vungle_banner":"DEFAULTBANNER-5844358",
-"vungle_reward":"REWARD-7025613",
-
-  
-
-
-"download_dialog_txt":"download text from server",
-"banner_network_choice":"admob", 
-"interstisial_network_choice":"admob", 
-"reward_network_choice":"admob",
-"native_network_choice":"admob"
-  
-
-},
-  "my_data":[
-  {"desc1":"The Russian Police Force, like law enforcement agencies worldwide, relies on a diverse range of vehicles to carry out its duties effectively ",
-   "photo1":"https://iili.io/JHQZHMP.webp"},
-  {"desc2":"Among the numerous vehicles in its fleet, one stands out for its unique characteristics and suitability for various law enforcement tasks","photo2":"https://iili.io/JHQZ9oB.webp"},
-  {"desc3":"the Priorik DPS. In this article, we will explore the significance of the Priorik DPS in the Russian Police Force, examining its features, functions, and impact on maintaining law and order in the country","photo3":"https://iili.io/JHQQptV.webp"},
-  {"desc4":"Before diving into the specifics of the Priorik DPS, it's essential to understand the context in which it operates","photo4":"https://iili.io/JHQZJP1.webp"},
-  {"desc5":"The Russian Police Force, formally known as the Ministry of Internal Affairs (MVD) of the Russian Federation, plays a crucial role in maintaining law and order in the vast and diverse nation","photo5":"https://iili.io/JHQZ2KF.webp"},
-  {"descd":"With responsibilities ranging from ensuring public safety to combating organized crime, the Russian Police Force is a multifaceted institution","photod":"https://iili.io/JHQZ3cg.webp"}
-   ]
- 
+{
+    "ADS": {
+        "banner_type_1": "yandex",
+        "inter_type_1": "yandex",
+        "native_type_1": "yandex",
+        "reward_type_1": "yandex",
+        "native_or_mrec_1": "native",
+        "ironsource_id": "ironsource_id_value",
+        "unity_id": "unity_id_value",
+        "banner_id_1": "demo-banner-yandex",
+        "interstitial_id_1": "demo-interstitial-yandex",
+        "reward_id_1": "demo-rewarded-yandex",
+        "mrec_id_1": "mrec_id_1_value",
+        "native_id_1": "demo-native-content-yandex",
+        "open_app_id": "demo-appopenad-yandex",
+        "store_link": "demo-native-content-yandex"
+    },
+    "guideData": [
+        {
+            "image_link": "https://iili.io/JJ94Cua.webp",
+            "title": "Priorik DPS Russian Police 1",
+            "text_Content_": "The Russian police force is a complex and multifaceted organization responsible for maintaining law and order in the vast expanse of Russia."
+        },
+        {
+            "image_link": "https://iili.io/JHQZJP1.webp",
+            "title": "Priorik DPS Russian Police 2",
+            "text_Content_": "Within this diverse force, one unit stands out for its critical role in ensuring the safety and security of the nation's roadways."
+        },
+        {
+            "image_link": "https://iili.io/JJ94qyg.webp",
+            "title": "Priorik DPS Russian Police 3",
+            "text_Content_": "the Priorik DPS. In this article, we will delve into the essential functions and responsibilities of the Priorik DPS and its significance within the Russian police system."
+        },
+        {
+            "image_link": "https://iili.io/JJ94f8F.webp",
+            "title": "Priorik DPS Russian Police 4",
+            "text_Content_": "Traffic Law Enforcement: The primary responsibility of the Priorik DPS is to enforce traffic laws rigorously. This includes monitoring vehicle speeds, apprehending drunk drivers, and issuing fines for various traffic violations."
+        },
+        {
+            "image_link": "https://iili.io/JJ9426B.webp",
+            "title": "Priorik DPS Russian Police 5",
+            "text_Content_": "Their presence on the roads acts as a deterrent to reckless driving and contributes to overall road safety."
+        },
+        {
+            "image_link": "https://iili.io/JJ94JCQ.webp",
+            "title": "Priorik DPS Russian Police 6",
+            "text_Content_": "Accident Investigation: In cases of traffic accidents, the Priorik DPS plays a pivotal role in conducting investigations. They collect evidence, interview witnesses, and analyze the circumstances surrounding the accident."
+        },
+        {
+            "image_link": "https://iili.io/JJ94dGV.webp",
+            "title": "Priorik DPS Russian Police 7",
+            "text_Content_": "They collect evidence, interview witnesses, and analyze the circumstances surrounding the accident. This thorough approach helps determine liability and ensures justice is served."
+        },
+        {
+            "image_link": "https://iili.io/JJ94F3P.webp",
+            "title": "Priorik DPS Russian Police 8",
+            "text_Content_": "Beyond enforcement, the Priorik DPS also engages in educational activities aimed at promoting road safety."
+        }
+    ]
 }
-   
